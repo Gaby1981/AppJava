@@ -1,0 +1,2 @@
+Crear repositorio de Git Hub en Desktp.
+1er cambio desde archivo CPU.
